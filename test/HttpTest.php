@@ -1,6 +1,6 @@
 <?php
 
-namespace test;
+namespace Liopoos\HttpCode\Tests;
 
 use Liopoos\HttpCode\Http;
 use PHPUnit\Framework\TestCase;
