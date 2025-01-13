@@ -1,1 +1,0 @@
-{"version":1,"defects":{"test\\HttpTest::testIsSuccessful":4,"test\\HttpTest::testStaticFun":3},"times":{"test\\HttpTest::testIsSuccessful":0.003,"test\\HttpTest::testCode":0,"test\\HttpTest::testStaticFun":0.001}}
